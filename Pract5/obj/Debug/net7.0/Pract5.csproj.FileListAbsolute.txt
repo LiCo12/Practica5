@@ -1,0 +1,15 @@
+K:\Pract5\obj\Debug\net7.0\Pract5.csproj.AssemblyReference.cache
+K:\Pract5\obj\Debug\net7.0\Pract5.GeneratedMSBuildEditorConfig.editorconfig
+K:\Pract5\obj\Debug\net7.0\Pract5.AssemblyInfoInputs.cache
+K:\Pract5\obj\Debug\net7.0\Pract5.AssemblyInfo.cs
+K:\Pract5\obj\Debug\net7.0\Pract5.csproj.CoreCompileInputs.cache
+K:\Pract5\bin\Debug\net7.0\Pract5.exe
+K:\Pract5\bin\Debug\net7.0\Pract5.deps.json
+K:\Pract5\bin\Debug\net7.0\Pract5.runtimeconfig.json
+K:\Pract5\bin\Debug\net7.0\Pract5.dll
+K:\Pract5\bin\Debug\net7.0\Pract5.pdb
+K:\Pract5\obj\Debug\net7.0\Pract5.dll
+K:\Pract5\obj\Debug\net7.0\refint\Pract5.dll
+K:\Pract5\obj\Debug\net7.0\Pract5.pdb
+K:\Pract5\obj\Debug\net7.0\Pract5.genruntimeconfig.cache
+K:\Pract5\obj\Debug\net7.0\ref\Pract5.dll
